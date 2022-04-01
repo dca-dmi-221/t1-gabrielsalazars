@@ -12,14 +12,16 @@ button {
   font-family: "Helvetica";
   height: 35px;
   width: 100px;
-  background-color: #9b34eb;
-  color: white;
-  border-radius: 10px;
+  background-color: #FFE600;
+  color: rgb(0, 0, 0);
+  border-radius: 60px;
 }
 
 input{
   height: 25px;
   border-radius: 60px;
+   padding-left : 20px;
+
 }
 
 div{
